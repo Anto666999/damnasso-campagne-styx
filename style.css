@@ -29,6 +29,7 @@ nav h1{
     color: #000000;
 	font-family: 'Nosifer';
     font-size: 30px;
+	
 }
 nav .onglets{
     margin-top: 3px;
@@ -52,6 +53,7 @@ header{
     align-items: center;
     background: url('	https://anto666999.github.io/damnasso-campagne-styx/images/background1.JPG');
     background-size: cover;
+
     color: #000000;
     padding: 40px;
 }
@@ -60,11 +62,14 @@ header h1{
     font-family: 'Playfair Display', serif;
     font-size: 50px;
 	font-family: 'Nosifer', cursive;
+	visibility:hidden;
+	
 }
 
 header h3{
 	color: #bcbcbe;
 	font-family: 'Nosifer', cursive;
+	visibility:hidden;
 }
 header h4{
     margin-top: -20px;
