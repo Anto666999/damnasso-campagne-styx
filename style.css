@@ -147,8 +147,8 @@ header button:hover{
 }
 
 .main .content .card .right2 img{
-    height:1041px;
-    width: 627px;
+    height:627px;
+    width: 1041px;
     margin-top: 5px;
 	flex-direction: column;
 	flex-wrap: wrap;
@@ -209,8 +209,8 @@ footer #contact{
 		align-items: center;
     }
 	    .main .content .card .right2 img{
-        height:349px;
-        width: 209px;
+        height:209px;
+        width: 349px;
         margin-top: -0px;
 		justify-content: center;
 		align-items: center;
