@@ -13,12 +13,12 @@
 		<img src='images/image0.png'>
 		<h1>&nbsp&nbspDamn'asso</h1>
 		<div class="onglets">
-			<a href="/damnasso-campagne-styx/index.html">Accueil</a>
-			<a href="/damnasso-campagne-styx/quisommesnous.html">Qui sommes-nous ?</a>
 			<a href="/damnasso-campagne-styx/allos.html">Les allos</a>
 			<a href="/damnasso-campagne-styx/partenaires.html">Partenaires</a>
 			<a href="/damnasso-campagne-styx/soutient.html">Soutien</a>
-			<a href="/damnasso-campagne-styx/styx.html">Les styx</a>
+			<a href="/damnasso-campagne-styx/bureau.html">Le Bureau</a>
+			<a href="/damnasso-campagne-styx/kfet.html">La Kfet</a>
+			<a href="/damnasso-campagne-styx/realtion.html">Les relations</a>
 		</div>
 	</nav>
 	<header>
